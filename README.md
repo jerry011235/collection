@@ -15,3 +15,5 @@ Check the box next to Issues
 shareimprove this answer
 
 https://stackoverflow.com/questions/16406180/is-there-a-way-to-add-issues-to-a-github-forked-repo-without-modifying-the-orig
+
+4.http://detail.zol.com.cn/ProductComp_param_1098636-1104201.html
