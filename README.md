@@ -16,8 +16,8 @@ shareimprove this answer
 
 https://stackoverflow.com/questions/16406180/is-there-a-way-to-add-issues-to-a-github-forked-repo-without-modifying-the-orig
 
-4.notebook 
-Acer VN7-591G-51WW
-http://detail.zol.com.cn/1099/1098636/param.shtml
-http://www.acer.com.cn/ac/zh/CN/content/model/NX.MQLCN.019
-http://detail.zol.com.cn/ProductComp_param_1098636-1104201.html
+4.notebook       
+Acer VN7-591G-51WW              
+http://detail.zol.com.cn/1099/1098636/param.shtml               
+http://www.acer.com.cn/ac/zh/CN/content/model/NX.MQLCN.019             
+http://detail.zol.com.cn/ProductComp_param_1098636-1104201.html              
