@@ -49,8 +49,10 @@ others
 宏碁（acer）E5-572G-58HZ 能不能加固态啊？？     
 http://tieba.baidu.com/p/4143978529         
 固态加机械位，机械硬盘加光驱位，记得买架          
-
+SSD4K对齐    
+http://jingyan.baidu.com/article/c1a3101e8409c9de656deb81.html    
 
 索厉（Suoli）SLA10笔记本光驱位硬盘托架（适用12.7mm光驱位厚度）             
 京 东 价：59.90              
-https://item.jd.com/620935.html            
+https://item.jd.com/620935.html        
+
