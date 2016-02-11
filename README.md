@@ -44,7 +44,6 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.1.b54NnT&id=44990930773&ns=1&ab
 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.1.0bFUse&id=16731775586&ns=1&abbucket=17&orderType=hotsell_desc             
 标准电压 https://item.jd.com/664484.html#none             
-低电压 https://item.jd.com/1066754.html           
 
 others          
 宏碁（acer）E5-572G-58HZ 能不能加固态啊？？     
