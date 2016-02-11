@@ -19,6 +19,9 @@ https://stackoverflow.com/questions/16406180/is-there-a-way-to-add-issues-to-a-g
 4.notebook   
 Acer E5-572G-58HZ
 http://detail.zol.com.cn/850/849059/param.shtml   
+https://search.jd.com/Search?keyword=Acer%20E5-572G-58HZ&enc=utf-8     
+https://list.tmall.com/search_product.htm?spm=a230r.1.0.0.r7Pduo&q=Acer%20E5-572G-58HZ&orderType=hotsell_desc&sort=d     
+https://s.taobao.com/search?q=Acer+E5-572G-58HZ&ie=utf-8&orderType=hotsell_desc&sort=sale-desc          
 
 othe motbooks
 Acer VN7-591G-51WW              
