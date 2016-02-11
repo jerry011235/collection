@@ -39,10 +39,11 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.1.b54NnT&id=44990930773&ns=1&ab
 英睿达MX100系列（256GB）516                    550MB/s 330MB/s             
 
 内存                      
-金士顿Kingston DDR3 1600 8G 笔记本内条             
-https://detail.tmall.com/item.htm?spm=a230r.1.14.1.0bFUse&id=16731775586&ns=1&abbucket=17&orderType=hotsell_desc              
+金士顿Kingston DDR3 1600 8G 笔记本内条   
+低电压 https://item.jd.com/1066754.html
 
-https://item.jd.com/664484.html#none             
+https://detail.tmall.com/item.htm?spm=a230r.1.14.1.0bFUse&id=16731775586&ns=1&abbucket=17&orderType=hotsell_desc             
+标准电压 https://item.jd.com/664484.html#none             
 低电压 https://item.jd.com/1066754.html           
 
 others          
