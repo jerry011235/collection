@@ -16,8 +16,38 @@ shareimprove this answer
 
 https://stackoverflow.com/questions/16406180/is-there-a-way-to-add-issues-to-a-github-forked-repo-without-modifying-the-orig
 
-4.notebook       
+4.notebook   
+Acer E5-572G-58HZ
+http://detail.zol.com.cn/850/849059/param.shtml   
+
+othe motbooks
 Acer VN7-591G-51WW              
 http://detail.zol.com.cn/1099/1098636/param.shtml               
 http://www.acer.com.cn/ac/zh/CN/content/model/NX.MQLCN.019             
-http://detail.zol.com.cn/ProductComp_param_1098636-1104201.html              
+http://detail.zol.com.cn/ProductComp_param_1098636-1104201.html   
+
+ssd          
+英睿达MX200 SATA CT250MX200SSD1（250GB） 609,659   555MB/s 500MB/s      
+https://item.jd.com/1513799488.html           
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.1.b54NnT&id=44990930773&ns=1&abbucket=17&orderType=hotsell_desc             
+
+英睿达M500系列 CT240M500SSD1RK（240GB） 648    500MB/s 250MB/s              
+英睿达MX100系列（256GB）516                    550MB/s 330MB/s             
+
+内存                      
+金士顿Kingston DDR3 1600 8G 笔记本内条             
+https://detail.tmall.com/item.htm?spm=a230r.1.14.1.0bFUse&id=16731775586&ns=1&abbucket=17&orderType=hotsell_desc              
+
+https://item.jd.com/664484.html#none             
+低电压 https://item.jd.com/1066754.html           
+
+others          
+宏碁（acer）E5-572G-58HZ 能不能加固态啊？？     
+http://tieba.baidu.com/p/4143978529         
+固态加机械位，机械硬盘加光驱位，记得买架          
+
+
+索厉（Suoli）SLA10笔记本光驱位硬盘托架（适用12.7mm光驱位厚度）             
+京 东 价：59.90              
+https://item.jd.com/620935.html            
