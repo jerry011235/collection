@@ -52,6 +52,14 @@ http://tieba.baidu.com/p/4143978529
 SSD4K对齐    
 http://jingyan.baidu.com/article/c1a3101e8409c9de656deb81.html    
 
+宏基笔记本电脑预装win8改win7系统教程详细图解     
+http://www.jb51.net/os/246459.html    
+http://www.xitongcheng.com/jiaocheng/xtazjc_article_15398.html   
+http://jingyan.baidu.com/article/27fa7326e83e8a46f9271f79.html
+
+怎么把gpt转换成mbr    
+http://jingyan.baidu.com/article/ca2d939dd8ad80eb6c31ced5.html?qq-pf-to=pcqq.c2c
+
 索厉（Suoli）SLA10笔记本光驱位硬盘托架（适用12.7mm光驱位厚度）             
 京 东 价：59.90              
 https://item.jd.com/620935.html        
